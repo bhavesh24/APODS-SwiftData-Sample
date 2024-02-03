@@ -15,7 +15,6 @@
 		18F72A6E2B4DBEEC00C63967 /* APOD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F72A6D2B4DBEEC00C63967 /* APOD.swift */; };
 		18F72A702B4EE70500C63967 /* APODViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F72A6F2B4EE70500C63967 /* APODViewModel.swift */; };
 		18F72A722B4EE84C00C63967 /* BackgroundImporter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F72A712B4EE84C00C63967 /* BackgroundImporter.swift */; };
-		18F72A742B4EF64A00C63967 /* Image+Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F72A732B4EF64A00C63967 /* Image+Data.swift */; };
 		18F72A762B4F0D3F00C63967 /* APODRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F72A752B4F0D3F00C63967 /* APODRow.swift */; };
 /* End PBXBuildFile section */
 
@@ -217,7 +216,6 @@
 				18F72A722B4EE84C00C63967 /* BackgroundImporter.swift in Sources */,
 				18F72A762B4F0D3F00C63967 /* APODRow.swift in Sources */,
 				18F72A5F2B4DAF6300C63967 /* APODView.swift in Sources */,
-				18F72A742B4EF64A00C63967 /* Image+Data.swift in Sources */,
 				18F72A5D2B4DAF6300C63967 /* SwiftData_SampleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
