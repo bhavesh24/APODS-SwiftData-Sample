@@ -15,7 +15,7 @@ import SwiftUI
     let cache: NSCache<NSURL, UIImage> = {
         let cache = NSCache<NSURL, UIImage>()
         cache.countLimit = 100 // 100 items
-        cache.totalCostLimit = 1024 * 1024 * 100000
+        cache.totalCostLimit = 1024 * 1024 * 100
         return cache
     }()
     
